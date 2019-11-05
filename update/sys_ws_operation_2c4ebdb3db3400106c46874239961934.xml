@@ -3,7 +3,7 @@
         <active>true</active>
         <consumes>application/json</consumes>
         <consumes_customized>false</consumes_customized>
-        <default_operation_uri/>
+        <default_operation_uri>/api/x_58872_needit/needit_api/nigetinfo/{user_name}</default_operation_uri>
         <enforce_acl>cf9d01d3e73003009d6247e603f6a990</enforce_acl>
         <http_method>GET</http_method>
         <name>ni_getinfo (v2)</name>
