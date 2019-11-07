@@ -3,20 +3,20 @@
         <condition_order>-1</condition_order>
         <datasource_table>x_58872_needit_needit</datasource_table>
         <datasource_table_condition/>
-        <embedded_screen display_value="My Open NeedIt Requests">5cc950dcdb8100106c468742399619f6</embedded_screen>
-        <item_view display_value="My Open NeedIt Requests Item View">84c998d8db8100106c46874239961954</item_view>
-        <name>My Open NeedIt Requests Master Item</name>
+        <embedded_screen display_value="NeedIt - Last Quarter">41fc1490dbc100106c46874239961974</embedded_screen>
+        <item_view display_value="NeedIt - Last Quarter Item View">49fc1490dbc100106c46874239961968</item_view>
+        <name>NeedIt - Last Quarter Master Item</name>
         <sys_class_name>sys_sg_master_item</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-11-07 00:32:15</sys_created_on>
-        <sys_id>9cc990dcdb8100106c46874239961900</sys_id>
+        <sys_created_on>2019-11-07 00:46:13</sys_created_on>
+        <sys_id>89fc1490dbc100106c4687423996197b</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name>My Open NeedIt Requests Master Item</sys_name>
+        <sys_name>NeedIt - Last Quarter Master Item</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_sg_master_item_9cc990dcdb8100106c46874239961900</sys_update_name>
+        <sys_update_name>sys_sg_master_item_89fc1490dbc100106c4687423996197b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-11-07 00:41:19</sys_updated_on>
+        <sys_updated_on>2019-11-07 00:46:41</sys_updated_on>
     </sys_sg_master_item>
 </record_update>
