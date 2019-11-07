@@ -3,7 +3,7 @@
         <condition_order>-1</condition_order>
         <datasource_table>x_58872_needit_needit</datasource_table>
         <datasource_table_condition/>
-        <embedded_screen display_value="NeedIt - Last Quarter">41fc1490dbc100106c46874239961974</embedded_screen>
+        <embedded_screen display_value="Last Quarter">41fc1490dbc100106c46874239961974</embedded_screen>
         <item_view display_value="NeedIt - Last Quarter Item View">49fc1490dbc100106c46874239961968</item_view>
         <name>NeedIt - Last Quarter Master Item</name>
         <sys_class_name>sys_sg_master_item</sys_class_name>

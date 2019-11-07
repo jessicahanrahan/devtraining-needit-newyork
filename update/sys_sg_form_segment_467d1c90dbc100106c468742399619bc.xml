@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
         <embedded_screen display_value="Details">427d1c90dbc100106c468742399619ba</embedded_screen>
-        <form display_value="NeedIt - Next Quarter">ca7d1c90dbc100106c468742399619b7</form>
+        <form display_value="Next Quarter">ca7d1c90dbc100106c468742399619b7</form>
         <order>10</order>
         <sys_class_name>sys_sg_form_segment</sys_class_name>
         <sys_created_by>admin</sys_created_by>

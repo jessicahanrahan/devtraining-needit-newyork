@@ -3,7 +3,7 @@
         <condition_order>-1</condition_order>
         <datasource_table>x_58872_needit_needit</datasource_table>
         <datasource_table_condition/>
-        <embedded_screen display_value="NeedIt - Next Quarter">ca7d1c90dbc100106c468742399619b7</embedded_screen>
+        <embedded_screen display_value="Next Quarter">ca7d1c90dbc100106c468742399619b7</embedded_screen>
         <item_view display_value="NeedIt - Next Quarter Item View">c27d1c90dbc100106c468742399619ac</item_view>
         <name>NeedIt - Next Quarter Master Item</name>
         <sys_class_name>sys_sg_master_item</sys_class_name>

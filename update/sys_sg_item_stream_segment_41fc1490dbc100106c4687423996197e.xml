@@ -3,7 +3,7 @@
         <interleave_order_direction>asc</interleave_order_direction>
         <name>Item Stream Segment</name>
         <order>10</order>
-        <screen display_value="NeedIt - Last Quarter">8dfc1490dbc100106c4687423996196a</screen>
+        <screen display_value="Last Quarter">8dfc1490dbc100106c4687423996196a</screen>
         <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-11-07 00:46:13</sys_created_on>
